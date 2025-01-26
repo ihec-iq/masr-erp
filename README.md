@@ -6,3 +6,4 @@ This developing with Vue 3 in Vite.
 
 - must be deployed in the HTTP server with the name folder "erp-msar"
 - can access to http://localhost/erp-masr
+- for Backend laravel at https://github.com/ihec-iq/msar-backend-11
